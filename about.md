@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-##Gernot Spelsberg##  
+## Gernot Spelsberg  
 
 Geboren 1965.  
 
