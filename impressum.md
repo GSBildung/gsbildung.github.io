@@ -1,4 +1,9 @@
-##Gernot Spelsberg##   
+---
+layout: page
+title: Impressum
+permalink: /impressum/
+---
+## Gernot Spelsberg   
 Hederichweg 5   
 58708 Menden   
 Deutschland   
