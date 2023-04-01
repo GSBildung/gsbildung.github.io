@@ -67,12 +67,13 @@ Sofern weitere regionale oder nationale Gesetze zur Anwendung kommen, informiere
 ## Kontaktdaten des Verantwortlichen
 
 Sollten Sie Fragen zum Datenschutz oder zur Verarbeitung personenbezogener Daten haben, finden Sie nachfolgend die Kontaktdaten der verantwortlichen Person bzw. Stelle:  
-Musterfirma GbR  
 Gernot Spelsberg     
-Hederichweg 5, 58708 Menden, Deutschland 
-Vertretungsberechtigt: Gernot Spelsberg  
-E-Mail: spelsberg@mailbox.org
-Telefon: +49 2373 62009  
+Hederichweg 5    
+58708 Menden    
+Deutschland       
+Vertretungsberechtigt: Gernot Spelsberg        
+E-Mail: spel<!-- abc@def -->sberg@mail<!-- abc@def -->box.org      
+Telefon: +49 2373 62009        
 Impressum: [https://gsbildung.github.io/impressum/](https://gsbildung.github.io/impressum/)
 
 ## Speicherdauer
