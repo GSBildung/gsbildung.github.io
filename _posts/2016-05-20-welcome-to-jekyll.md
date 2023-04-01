@@ -18,7 +18,7 @@ print_hi('Tom')
 
 #Test
 
-$$R_g=R_1+R_2+R_3$$
+$$R_g=R_1+R_2+R_3$$   
 $$R_{Ges}=\frac{R_1R_2}{R_1+R_2}$$
 
 
