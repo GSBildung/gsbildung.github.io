@@ -1,3 +1,9 @@
+---
+layout: page
+title: Datenschutzerklärung
+permalink: /datenschutz
+---
+
 # Datenschutzerklärung
 
 ## Inhaltsverzeichnis
