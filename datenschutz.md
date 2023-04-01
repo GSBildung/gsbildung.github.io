@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Datenschutzerklärung
-permalink: /datenschutz
+permalink: /datenschutz/
 ---
 
-# Datenschutzerklärung
+
 
 ## Inhaltsverzeichnis
 
