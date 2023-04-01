@@ -1,7 +1,7 @@
 title: Gernot Spelsberg
 description: Dipl.-Ing. Elektrotechnik/Ausbilder/Dozent
 author: Gernot Spelsberg
-avatar: /https://avatars.githubusercontent.com/u/129181254?s=400&u=b58b67a497b7465fb303f8a3965be7fef95b08a8&v=4
+#avatar: /https://avatars.githubusercontent.com/u/129181254?s=400&u=b58b67a497b7465fb303f8a3965be7fef95b08a8&v=4
 email: spelsberg@mailbox.org
 
 plugins:
@@ -32,7 +32,7 @@ exclude:
 twitter:
   username: newline65
   card: summary
-logo: https://avatars.githubusercontent.com/u/129181254?s=400&u=b58b67a497b7465fb303f8a3965be7fef95b08a8&v=4
+#logo: https://avatars.githubusercontent.com/u/129181254?s=400&u=b58b67a497b7465fb303f8a3965be7fef95b08a8&v=4
 social:
   name: Gernot Spelsberg
   links:
