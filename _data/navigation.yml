@@ -1,12 +1,16 @@
-- title: About
+- title: Über mich
   url: /about/
-- title: Years
+- title: Jahre
   url: /years/
-- title: Categories
+- title: Kategorien
   url: /categories/
 - title: Tags
   url: /tags/
-- title: More
+- title: Impressum
+  url: /impressum/
+- title: Datenschutz
+  url: /datenschutz/
+- title: Mehr
   sublinks:
     - title: FAQ
       url: /faq/
