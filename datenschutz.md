@@ -73,7 +73,7 @@ Hederichweg 5
 Deutschland       
 Vertretungsberechtigt: Gernot Spelsberg        
 E-Mail: spel<!-- abc@def -->sberg@mail<!-- abc@def -->box.org      
-Telefon: +49 2373 62009        
+Telefon: +49 2373<!-- 123456 --> 62009        
 Impressum: [https://gsbildung.github.io/impressum/](https://gsbildung.github.io/impressum/)
 
 ## Speicherdauer
