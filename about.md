@@ -14,7 +14,7 @@ Geboren 1965.
  Grundwehrdienst in Frankenberg/Eder 11/III und Hemer 1./203.  
 
 
-Weiterbildung in:
+### Weiterbildung in:
 
 Instandhaltung   
 C/C++   
@@ -28,7 +28,7 @@ Didaktik
 Beobachterschulung   
 
 
-###Tätig als Ausbilder in der beruflichen Bildung###
+### Tätig als Ausbilder in der beruflichen Bildung###
 
 Bisher in verschiedenen Maßnahmen:
 
