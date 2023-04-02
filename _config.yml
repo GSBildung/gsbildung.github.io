@@ -3,6 +3,7 @@ description: Dipl.-Ing. Elektrotechnik/Ausbilder/Dozent
 author: Gernot Spelsberg
 avatar: /logo.png
 email: spelsberg@mailbox.org
+subscribe: false
 
 plugins:
   - jekyll-seo-tag
