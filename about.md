@@ -5,17 +5,13 @@ permalink: /about/
 ---
 
 ## Gernot Spelsberg  
-
 Geboren 1965.  
 
-
- Grundschule, Hauptschule und Fachoberschule in Menden.   
- Studium der Elektrotechnik mit dem Schwerpunkt Automatisierung an der Fachhochschule Iserlohn, Abteilung Hagen.   
- Grundwehrdienst in Frankenberg/Eder 11/III und Hemer 1./203.  
-
+Grundschule, Hauptschule und Fachoberschule in Menden.   
+Studium der Elektrotechnik mit dem Schwerpunkt Automatisierung an der Fachhochschule Iserlohn, Abteilung Hagen.   
+Grundwehrdienst in Frankenberg/Eder 11/III und Hemer 1./203.  
 
 ### Weiterbildung in:
-
 Instandhaltung   
 C/C++   
 Java   
@@ -29,9 +25,7 @@ Beobachterschulung
 
 
 ### Tätig als Ausbilder in der beruflichen Bildung
-
 Bisher in verschiedenen Maßnahmen:
-
 abH Ausbildungsbegleitende Hilfen    
 Prüfungsvorbereitung   
 L.A.B.O.R.  Leben, arbeiten, berufliche Orientierung in der Region   
