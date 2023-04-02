@@ -28,7 +28,7 @@ Didaktik
 Beobachterschulung   
 
 
-### Tätig als Ausbilder in der beruflichen Bildung###
+### Tätig als Ausbilder in der beruflichen Bildung
 
 Bisher in verschiedenen Maßnahmen:
 
