@@ -1,5 +1,6 @@
 ---
 layout: post
+title: LaTeX
 math: true
 ---
 Dies ist ein Test $$\latex$$ funktioniert.
