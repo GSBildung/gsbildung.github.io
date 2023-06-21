@@ -1,6 +1,7 @@
 ---
 layout: post
 math: true
+title: "Das Berichtsheft, die ungenutzten Vorteile"
 ---
 # Ein Lob dem Berichtsheft
 
