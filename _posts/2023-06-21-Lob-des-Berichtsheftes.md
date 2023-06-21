@@ -1,7 +1,9 @@
 ---
 layout: post
-math: true
+toc: true
 title: "Das Berichtsheft, die ungenutzten Vorteile"
+categories: Ausbildung
+tags: [Berichtsheft, Prüfung, Schreiben]
 ---
 # Ein Lob dem Berichtsheft
 
