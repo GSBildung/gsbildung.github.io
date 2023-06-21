@@ -59,4 +59,4 @@ Mit Ihrem Berichtsheft dokumentieren Sie die Ausbildung. Sie können damit beleg
 
 ### Sie erfüllen eine Pflicht
 
-Im Paragraf 13 Nummer 7 des Berufsbildungsgesetz (BBiG) ist festgelegt, dass während einer Ausbildung ein Ausbildungsnachweis geführt werden muss. Nach Paragraf 43 Absatz 1 Ziffer 2 des BBiG ist ein Berichtsheft, welches von Ihnen und vom Ausbilder oder Ausbilderin unterzeichnet ist, Voraussetzung für die Zulassung zur Prüfung. 
+Im [Paragraf 13 Nummer 7](https://www.gesetze-im-internet.de/bbig_2005/__13.html) des Berufsbildungsgesetz (BBiG) ist festgelegt, dass während einer Ausbildung ein Ausbildungsnachweis geführt werden muss. Nach [Paragraf 43 Absatz 1 Ziffer 2](https://www.gesetze-im-internet.de/bbig_2005/__43.html) des BBiG ist ein Berichtsheft, welches von Ihnen und vom Ausbilder oder Ausbilderin unterzeichnet ist, Voraussetzung für die Zulassung zur Prüfung. 
