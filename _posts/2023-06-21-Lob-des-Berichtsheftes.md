@@ -21,13 +21,13 @@ Es wird dann etwas erfunden, oder aus lückenhaften Notizen versucht, etwas Sinn
 
 ## Welche Vorteile können aus dem Berichtsheft gezogen werden?
 
-**Sie reflektieren Ihren Tag.**
+### Sie reflektieren Ihren Tag
 
 Während des Schreibens haben Sie die Möglichkeit, festzustellen, was Sie an diesem Tag gelernt haben. Was hat nicht gut geklappt und, besonders wichtig, was ist ihnen an diesem Tag gut gelungen. Welche Erfolge hatten Sie? Dies brauchen Sie natürlich nicht im Berichtsheft zu notieren, behalten Sie es in Erinnerung oder notieren Sie es in einem privaten Tagebuch.
 
 
 
-**Sie erlernen die Fachsprache.**
+### Sie erlernen die Fachsprache
 
 Jeder Beruf verfügt über eine Fachsprache, besondere Begriffe für Werkzeuge, Arbeitsweisen, Materialien, Normen usw. Diese Fachsprache müssen Sie beherrschen. Durch das wiederholte Schreiben von Berichten üben Sie die Verwendung von Fachausdrücken.
 
@@ -35,7 +35,7 @@ Wenn Ihnen komplizierte Fachausdrücke Schwierigkeiten machen, dann notieren Sie
 
 
 
-**Sie üben das Anfertigen von Berichten.**
+### Sie üben das Anfertigen von Berichten
 
 Bei vielen Berufen muss für die Vorbereitung zur mündlichen Prüfung ein Bericht über eine selbständig bearbeitete berufliche Aufgabe eingereicht werden.
 
@@ -51,7 +51,7 @@ Als Software bietet sich Microsoft Office an, aber auch die kostenlosen Programm
 
 
 
-**Sie haben einen Nachweis.**
+### Sie haben einen Nachweis
 
 Mit Ihrem Berichtsheft dokumentieren Sie die Ausbildung. Sie können damit belegen, was, und noch wichtiger, was Sie nicht gelernt haben. Ihre Berichte könnten sich im Streitfall als ein wichtiges Dokument erweisen.
 
