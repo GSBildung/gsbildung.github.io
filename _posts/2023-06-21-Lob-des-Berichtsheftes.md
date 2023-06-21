@@ -55,3 +55,9 @@ Als Software bietet sich Microsoft Office an, aber auch die kostenlosen Programm
 
 Mit Ihrem Berichtsheft dokumentieren Sie die Ausbildung. Sie können damit belegen, was, und noch wichtiger, was Sie nicht gelernt haben. Ihre Berichte könnten sich im Streitfall als ein wichtiges Dokument erweisen.
 
+
+
+### Sie erfüllen eine Pflicht
+
+Im Paragraf 13 Nummer 7 des Berufsbildungsgesetz (BBiG) ist festgelegt, dass während einer Ausbildung ein Ausbildungsnachweis geführt werden muss.
+Nach Paragraf 43 Asatz 1 Ziffer 2 des BBiG ist ein Berichtsheft, welches von Ihnen und vom Ausbilder oder Ausbilderin unterzeichnet ist, Vorrausetzung für die Zulassung zur Prüfung.
