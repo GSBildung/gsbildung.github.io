@@ -11,7 +11,7 @@ tags: [Berichtsheft, Prüfung, Schreiben]
 > **Dies wird von vielen als lästig empfunden, doch es ergeben sich Möglichkeiten und Vorteile.**
 > **Welche, das erfahren Sie hier.**
 
-Jeder kennt Berichtshefte, früher oft als gebundenes Heft oder als Loseblattsammlung, heute immer häufiger als Datei auf einem Computer, Smartphone oder Tablett. Für viele, die so ein Heft führen müssen, ist der einzige Vorteil, dass die Hefte oder Blätter vom ausbildenden Betrieb gestellt werden müssen und das Schreiben der Berichte als Arbeitszeit zählt.
+Jeder kennt Berichtshefte, früher oft als gebundenes Heft oder als Loseblattsammlung, heute immer häufiger als Datei auf einem Computer, Smartphone oder Tablet. Für viele, die so ein Heft führen müssen, ist der einzige Vorteil, dass die Hefte oder Blätter vom ausbildenden Betrieb gestellt werden müssen und das Schreiben der Berichte als Arbeitszeit zählt.
 
 Ansonsten ist das Schreiben der Berichte sehr unbeliebt und wird gerne aufgeschoben. Vor Prüfungen, bei denen die Berichte vorgelegt werden müssen, wird dann unter Zeitdruck ein großer Zeitraum nachgetragen. Dann ist natürlich längst nicht mehr in Erinnerung, was für Tätigkeiten ausgeübt wurden.
 
