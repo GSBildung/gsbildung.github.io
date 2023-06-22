@@ -43,9 +43,9 @@ Dieser Bericht wird zwar nicht bewertet, bildet aber die Grundlage für das Fach
 
 Viele Berufsausbildungen bieten die Möglichkeit zu freiwilligen, zusätzlichen Prüfungen. Eine Aufgabe wird im Betrieb selbständig bearbeitet und dazu ein Bericht geschrieben, je nach Beruf ergänzt mit Zeichnungen, Bildern, Stücklisten oder Listings von Programmen.
 
-Diese Berichte müssen Sie bei Ihrer Kammer einreichen. Entweder ausgedruckt, oder als Datei hochladen. Informieren Sie sich dazu auf den Seiten der für Sie zuständigen Kammer.
+Die Berichte müssen Sie bei Ihrer Kammer einreichen. Entweder ausgedruckt, oder als Datei hochladen. Informieren Sie sich dazu auf den Seiten der für Sie zuständigen Kammer.
 
-Die Kammern haben Vorschriften für die Formatierung dieser Berichte, welche Schrift und Schriftgröße für Überschriften und Text, Breite der Seitenränder, Umfang des Berichtes. Beherrschen Sie den Umgang mit einer Textverarbeitung? Erstellung eines Inhaltsverzeichnisses, Einfügen von Grafiken, Formatierung von Text und Überschriften. In Ihrem Interesse sollten Sie sich an die Vorgaben der Kammer halten.
+Alle Kammern haben Vorschriften für die Formatierung dieser Berichte, welche Schrift und Schriftgröße für Überschriften und Text, Breite der Seitenränder, Umfang des Berichtes. Beherrschen Sie den Umgang mit einer Textverarbeitung? Erstellung eines Inhaltsverzeichnisses, Einfügen von Grafiken, Formatierung von Text und Überschriften? In Ihrem Interesse sollten Sie sich an die Vorgaben der Kammer halten.
 
 Als Software bietet sich Microsoft Office an, aber auch die kostenlosen Programme LibreOffice oder OpenOffice. Beschäftigen Sie sich frühzeitig mit der Software, falls Sie nicht durch Ihren Beruf sowieso geübt sind.
 
@@ -53,7 +53,7 @@ Als Software bietet sich Microsoft Office an, aber auch die kostenlosen Programm
 
 ### Sie haben einen Nachweis
 
-Mit Ihrem Berichtsheft dokumentieren Sie die Ausbildung. Sie können damit belegen, was, und noch wichtiger, was Sie nicht gelernt haben. Ihre Berichte könnten sich im Streitfall als ein wichtiges Dokument erweisen.
+Mit Ihrem Berichtsheft dokumentieren Sie die Ausbildung. Sie können damit belegen, was und was Sie nicht gelernt haben. Ihre Berichte könnten sich im Streitfall als ein wichtiges Dokument erweisen.
 
 
 
