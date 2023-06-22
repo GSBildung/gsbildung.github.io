@@ -39,7 +39,7 @@ Wenn Ihnen komplizierte Fachausdrücke Schwierigkeiten machen, dann notieren Sie
 
 Bei vielen Berufen muss für die Vorbereitung zur mündlichen Prüfung ein Bericht über eine selbständig bearbeitete berufliche Aufgabe eingereicht werden.
 
-Dieser Bericht wird zwar nicht bewertet, bildet aber die Grundlage für das Fachgespräch zwischen Ihnen und den Prüfern. Einige Berufe kennen keine mündliche Prüfung, dort werden während der praktischen Arbeitsaufgabe situative Fachgespräche geführt. Aber auch dort ist es wichtig, dass Sie Arbeitsweisen, Werkzeuge, Materialien korrekt benennen können.
+Dieser Bericht wird zwar nicht bewertet, bildet aber die Grundlage für das Fachgespräch zwischen Ihnen und den Prüferinnen und Prüfern. Einige Berufe kennen keine rein mündliche Prüfung, dort werden während der praktischen Arbeitsaufgabe situative Fachgespräche geführt. Aber auch dort ist es wichtig, dass Sie Arbeitsweisen, Werkzeuge, Materialien korrekt benennen können.
 
 Viele Berufsausbildungen bieten die Möglichkeit zu freiwilligen, zusätzlichen Prüfungen. Eine Aufgabe wird im Betrieb selbständig bearbeitet und dazu ein Bericht geschrieben, je nach Beruf ergänzt mit Zeichnungen, Bildern, Stücklisten oder Listings von Programmen.
 
