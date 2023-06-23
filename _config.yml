@@ -34,7 +34,7 @@ exclude:
   #username: newline65
   #card: summary
 logo: logo.png
-social: false
+social: 
   name: Gernot Spelsberg
   links:
     #- https://twitter.com/newline65
