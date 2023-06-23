@@ -72,7 +72,7 @@ Hederichweg 5
 58708 Menden    
 Deutschland       
 Vertretungsberechtigt: Gernot Spelsberg        
-E-Mail: spel<!-- abc@def -->sberg@mail<!-- abc@def -->box.org      
+E-Mail: gs<!-- abc@def -->bildung@mail<!-- abc@def -->box.org      
 Telefon: +49 2373<!-- 123456 --> 62009        
 Impressum: [https://gsbildung.github.io/impressum/](https://gsbildung.github.io/impressum/)
 
