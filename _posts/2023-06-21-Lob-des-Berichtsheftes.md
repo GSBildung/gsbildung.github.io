@@ -5,6 +5,8 @@ title: "Das Berichtsheft, die ungenutzten Vorteile"
 categories: Ausbildung
 tags: [Berichtsheft, Prüfung, Schreiben]
 ---
+
+![Berichtsheft](/C:\Users\gerno\OneDrive\Bilder\Blog\undraw_Blog_post_re_fy5x.png)
 # Ein Lob dem Berichtsheft
 
 > **Viele müssen während ihrer Ausbildung ein Berichtsheft führen, ob analog oder digital, täglich, wöchentlich oder monatlich.**
