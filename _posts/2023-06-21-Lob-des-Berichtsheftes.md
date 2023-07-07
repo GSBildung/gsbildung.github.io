@@ -6,7 +6,7 @@ categories: Ausbildung
 tags: [Berichtsheft, Prüfung, Schreiben]
 ---
 
-
+<img src="C:\Users\gerno\OneDrive\Bilder\Blog\undraw_Blog_post_re_fy5x.png" alt="undraw_Blog_post_re_fy5x" style="zoom:50%;" />
 # Ein Lob dem Berichtsheft
 
 > **Viele müssen während ihrer Ausbildung ein Berichtsheft führen, ob analog oder digital, täglich, wöchentlich oder monatlich.**
