@@ -25,7 +25,7 @@ Grundwehrdienst in Frankenberg/Eder 11/III und Hemer 1./203.
 - Beobachterschulung   
 
 
-### Tätig als Ausbilder in der beruflichen Bildung
+### Tätig als Ausbilder und Dozent in der beruflichen Bildung
 Bisher in verschiedenen Maßnahmen:
 - abH Ausbildungsbegleitende Hilfen    
 - Prüfungsvorbereitung   
