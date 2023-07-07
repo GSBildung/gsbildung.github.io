@@ -41,4 +41,5 @@ BaE  Berufsausbildung in einer außerbetrieblichen Einrichtung für Zerspanungsm
 AsA assistierte Ausbildung   
 Ausbildung von Elektronikern/Automatisierungstechnik in China   
 Training von Berufsschullehrern Prüfungsvorbereitung, handlungsorientierte Aufgaben in China   
-Vorträge zu verschiedenen Themen der beruflichen Bildung   
+Vorträge zu verschiedenen Themen der beruflichen Bildung
+Vorsitzender des Prüfungsausschusses der IHK-Prüfung für Elektroniker Automatisierungstechnik und Mechatroniker im Zhejiang Pinghu Technician College, Ningbo Second Technican College und Guangdong Polytechnic of Science and Technology in China
