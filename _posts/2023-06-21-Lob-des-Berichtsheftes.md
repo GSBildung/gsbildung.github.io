@@ -5,7 +5,6 @@ title: "Das Berichtsheft, die ungenutzten Vorteile"
 categories: Ausbildung
 tags: [Berichtsheft, Prüfung, Schreiben]
 ---
-![undraw_Blog_post_re_fy5x](C:\Users\gerno\OneDrive\Bilder\Blog\undraw_Blog_post_re_fy5x.png)
 
 # Ein Lob dem Berichtsheft
 
