@@ -3,7 +3,7 @@ description: Dipl.-Ing. (FH) Elektrotechnik/Ausbilder/Dozent
 author: Gernot Spelsberg
 avatar: /logo.png
 email: gsbildung@mailbox.org
-subscribe: false
+subscribe: true
 
 plugins:
   - jekyll-seo-tag
