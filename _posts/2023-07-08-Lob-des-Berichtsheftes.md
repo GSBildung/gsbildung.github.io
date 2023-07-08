@@ -6,14 +6,12 @@ categories: Ausbildung
 tags: [Berichtsheft, Prüfung, Schreiben]
 ---
 
-![undraw_Blog_post_re_fy5x](C:\Users\gerno\OneDrive\Bilder\Blog\undraw_Blog_post_re_fy5x.png)
+![undraw_Blog_post_re_fy5x](https://github.com/GSBildung/gsbildung.github.io/blob/master/undraw_Blog_post_re_fy5x.png)
 
 # Ein Lob dem Berichtsheft
 
 > **Viele müssen während ihrer Ausbildung ein Berichtsheft führen, ob analog oder digital, täglich, wöchentlich oder monatlich.**
->
 > **Dies wird von vielen als lästig empfunden, doch es ergeben sich Möglichkeiten und Vorteile.**
->
 > **Welche, das erfahren Sie hier.**
 
 Jeder kennt Berichtshefte, früher oft als gebundenes Heft oder als Loseblattsammlung, heute immer häufiger als Datei auf einem Computer, Smartphone oder Tablett. Für viele, die so ein Heft führen müssen, ist der einzige Vorteil, dass die Hefte oder Blätter vom ausbildenden Betrieb gestellt werden müssen und das Schreiben der Berichte als Arbeitszeit zählt.
