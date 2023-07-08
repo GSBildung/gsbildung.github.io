@@ -4,7 +4,7 @@ author: Gernot Spelsberg
 avatar: /logo.png
 email: gsbildung@mailbox.org
 subscribe: false
-
+location: 58708 Menden
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
