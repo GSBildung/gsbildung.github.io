@@ -6,7 +6,7 @@ categories: Ausbildung
 tags: [Berichtsheft, Prüfung, Schreiben]
 ---
 
-![undraw_Blog_post_re_fy5x](https://raw.githubusercontent.com/GSBildung/gsbildung.github.io/35dae2367f30635d933543e8f5a541a3860e0ceb/undraw_blog_post_re_fy5x.svg=250x)
+![undraw_Blog_post_re_fy5x](https://raw.githubusercontent.com/GSBildung/gsbildung.github.io/35dae2367f30635d933543e8f5a541a3860e0ceb/undraw_blog_post_re_fy5x.svg)
 
 # Ein Lob dem Berichtsheft
 
