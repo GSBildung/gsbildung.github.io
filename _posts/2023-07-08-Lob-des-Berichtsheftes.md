@@ -6,7 +6,7 @@ categories: Ausbildung
 tags: [Berichtsheft, Prüfung, Schreiben]
 ---
 
-![undraw_Blog_post_re_fy5x](undraw_blog_post_re_fy5x.svg)
+![undraw_Blog_post_re_fy5x](gsbildung.github.io/undraw_blog_post_re_fy5x.svg)
 
 # Ein Lob dem Berichtsheft
 
