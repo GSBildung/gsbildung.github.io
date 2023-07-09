@@ -57,3 +57,12 @@ Als Software bietet sich Microsoft Office an, aber auch die kostenlosen Programm
 ## Sie haben einen Nachweis.
 
 Mit Ihrem Berichtsheft dokumentieren Sie die Ausbildung. Sie können damit belegen, was, und noch wichtiger, was Sie nicht gelernt haben. Ihre Berichte könnten sich im Streitfall als ein wichtiges Dokument erweisen.
+
+
+## Sie erfüllen eine Pflicht.
+
+Nach dem [Berufsbildungsgesetz](https://www.gesetze-im-internet.de/bbig_2005/__14.html) (BBiG) § 14 Berufsausbildung Absatz 2 müssen die Auszubildenden einen Ausbildungsnachweis führen. Unvollständige oder fehlende Ausbildungsnachweise können dazu führen, dass Sie nicht zur Abschlussprüfung zugelassen werden (§ 43 Abs. 1 Nr. 2 [BBiG](https://www.gesetze-im-internet.de/bbig_2005/__43.html)).
+
+Ihr Ausbildungsbetrieb kann von Ihnen auch darüber hinaus Nachweise anfordern, zum Beispiel Fachberichte über Arbeitsweisen oder die Organisationsstruktur des Betriebes. Welchen Weg nimmt ein Kundenauftrag im Betrieb, welche Abteilungen sind beteiligt?
+
+Übrigens müssen Sie auch die Inhalte und Themen des Berufsschulunterrichts in Ihren Berichten festhalten, ebenso wie firmeninterne oder überbetriebliche Schulungen.
