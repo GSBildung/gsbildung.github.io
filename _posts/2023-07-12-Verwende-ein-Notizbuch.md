@@ -50,7 +50,7 @@ Legen Sie ein Inhaltsverzeichnis an und nummerieren Sie die Seiten. Außerdem so
 
 Das Inhaltsverzeichnis muss nicht alphabetisch sein. Sie verwenden das Notizbuch als ein Arbeitsmittel und fügen ständig neue Einträge hinzu. Als Beispiel sammeln Sie Ideen  zu einer betrieblichen Aufgabe für Ihre Prüfung.
 
-Sie tragen denn im Inhaltsverzeichnis „Betriebliche Aufgabe“ ein und dahinter die entsprechenden Seiten.
+Sie tragen dann im Inhaltsverzeichnis „Betriebliche Aufgabe“ ein und dahinter die entsprechenden Seiten.
 
 Betriebliche Aufgabe 23, 41, 52
 
