@@ -80,7 +80,7 @@ Nehmen Sie den, der Ihnen am besten liegt. Reicht die Papierqualität aus oder s
 
 Für Bleistifte gibt es Schutzkappen mit Ansteckclip und Anspitzer. Die Spitze des Bleistiftes wird geschützt und kann jederzeit angespitzt werden. Hat der Bleistift ein Radiergummi am anderen Ende, diese gibt es auch einzeln zum Aufstecken, dann sind sie komplett ausgestattet.
 
-Vorsicht bei den löschbaren Kugelschreibern. Diese löschen die Schrift durch die beim Radieren entstehende Reibungswärme. Diese Wärme kann auch erreicht werden, wenn Ihr Notizbuch starker Wärme ausgesetzt wird, zum Beispiel in einem Auto im Sommer. Wenn die Schrift verschwunden ist, dann stecken Sie das Buch eine Plastiktüte und für einige Stunden in ein Gefrierfach. So können Sie auch radierte Stellen wieder sichtbar machen.
+Vorsicht bei den radierbaren Kugelschreibern. Diese löschen die Schrift durch die beim Radieren entstehende Reibungswärme. Diese Wärme kann auch erreicht werden, wenn Ihr Notizbuch starker Wärme ausgesetzt wird, zum Beispiel in einem Auto im Sommer. Wenn die Schrift verschwunden ist, dann stecken Sie das Buch eine Plastiktüte und für einige Stunden in ein Gefrierfach. So können Sie auch radierte Stellen wieder sichtbar machen.
 
 
 
