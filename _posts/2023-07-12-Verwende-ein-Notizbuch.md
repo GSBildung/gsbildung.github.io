@@ -6,7 +6,7 @@ categories: Ausbildung
 tags: [Notizbuch, Lernen, Schreiben]
 ---
 
-![undraw_Blog_post_re_fy5x](https://github.com/GSBildung/gsbildung.github.io/blob/master/undraw_Blog_post_re_fy5x_k.png?raw=true)
+![undraw_Blog_post_re_fy5x](https://github.com/GSBildung/gsbildung.github.io/blob/master/undraw_Notebook_re_id0r_k.png?raw=true)
 
 # Verwende ein Notizbuch
 
