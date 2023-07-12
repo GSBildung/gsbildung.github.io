@@ -1,11 +1,9 @@
-![Berichtsheft]()
+![Berichtsheft](https://github.com/GSBildung/gsbildung.github.io/blob/master/undraw_Blog_post_re_fy5x_k.png?raw=true)
 
 # Ein Lob dem Berichtsheft
 
 > **Viele müssen während ihrer Ausbildung ein Berichtsheft führen, ob analog oder digital, täglich, wöchentlich oder monatlich.**
->
 > **Dies wird von vielen als lästig empfunden, doch es ergeben sich Möglichkeiten und Vorteile.**
->
 > **Welche, das erfahren Sie hier.**
 
 Jeder kennt Berichtshefte, früher oft als gebundenes Heft oder als Loseblattsammlung, heute immer häufiger als Datei auf einem Computer, Smartphone oder Tablett. Für viele, die so ein Heft führen müssen, ist der einzige Vorteil, dass die Hefte oder Blätter vom ausbildenden Betrieb gestellt werden müssen und das Schreiben der Berichte als Arbeitszeit zählt.
@@ -18,13 +16,13 @@ Es wird dann etwas erfunden, oder aus lückenhaften Notizen versucht, etwas Sinn
 
 ## Welche Vorteile können aus dem Berichtsheft gezogen werden?
 
-**Sie reflektieren Ihren Tag.**
+## Sie reflektieren Ihren Tag.
 
 Während des Schreibens haben Sie die Möglichkeit, festzustellen, was Sie an diesem Tag gelernt haben. Was hat nicht gut geklappt und, besonders wichtig, was ist ihnen an diesem Tag gut gelungen. Welche Erfolge hatten Sie? Dies brauchen Sie natürlich nicht im Berichtsheft zu notieren, behalten Sie es in Erinnerung oder notieren Sie es in einem privaten Tagebuch.
 
 
 
-**Sie erlernen die Fachsprache.**
+## Sie erlernen die Fachsprache.
 
 Jeder Beruf verfügt über eine Fachsprache, besondere Begriffe für Werkzeuge, Arbeitsweisen, Materialien, Normen usw. Diese Fachsprache müssen Sie beherrschen. Durch das wiederholte Schreiben von Berichten üben Sie die Verwendung von Fachausdrücken.
 
@@ -32,7 +30,7 @@ Wenn Ihnen komplizierte Fachausdrücke Schwierigkeiten machen, dann notieren Sie
 
 
 
-**Sie üben das Anfertigen von Berichten.**
+## Sie üben das Anfertigen von Berichten.
 
 Bei vielen Berufen muss für die Vorbereitung zur mündlichen Prüfung ein Bericht über eine selbständig bearbeitete berufliche Aufgabe eingereicht werden.
 
@@ -48,13 +46,13 @@ Als Software bietet sich Microsoft Office an, aber auch die kostenlosen Programm
 
 
 
-**Sie haben einen Nachweis.**
+## Sie haben einen Nachweis.
 
 Mit Ihrem Berichtsheft dokumentieren Sie die Ausbildung. Sie können damit belegen, was, und noch wichtiger, was Sie nicht gelernt haben. Ihre Berichte könnten sich im Streitfall als ein wichtiges Dokument erweisen.
 
 
 
-**Sie erfüllen eine Pflicht.**
+## Sie erfüllen eine Pflicht.
 
 Nach dem [Berufsbildungsgesetz](https://www.gesetze-im-internet.de/bbig_2005/__14.html) (BBiG) § 14 Berufsausbildung Absatz 2 müssen die Auszubildenden einen Ausbildungsnachweis führen. Unvollständige oder fehlende Ausbildungsnachweise können dazu führen, dass Sie nicht zur Abschlussprüfung zugelassen werden (§ 43 Abs. 1 Nr. 2 [BBiG](https://www.gesetze-im-internet.de/bbig_2005/__43.html)).
 
