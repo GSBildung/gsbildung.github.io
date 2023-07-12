@@ -1,4 +1,4 @@
-<img src="C:\Users\gerno\OneDrive\Bilder\Blog\undraw_Blog_post_re_fy5x.png" alt="undraw_Blog_post_re_fy5x" style="zoom:33%;" />
+![Berichtsheft]()
 
 # Ein Lob dem Berichtsheft
 
