@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "Ein Notizbuch verbessert deine Arbeit"
+title: "Ein Notizbuch verbessert Ihre Arbeit"
 categories: Ausbildung
 tags: [Notizbuch, Lernen, Schreiben]
 ---
@@ -33,8 +33,6 @@ Gerade in den ersten Tagen einer Ausbildung werden Sie viele neue Informationen 
 - Betriebsinterne Notrufnummern
 - Nummer Ihres Spindes oder Wertfaches
 - Ihre Personalnummer
-- Ihre Sozialversicherungsnummer
-- Mitgliedsnummer Ihrer Krankenkasse
 - Welcher Berufsgenossenschaft gehört der Betrieb an
 - Wichtige Regeln der Arbeitssicherheit, Datenschutzes, Hygiene, usw.
 - Berufliche Termine und Fristen
