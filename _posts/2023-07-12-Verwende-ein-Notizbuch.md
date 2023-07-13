@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "Ein Notizbuch verbessert Ihre Arbeit"
 categories: Ausbildung
-tags: [Notizbuch, Lernen, Schreiben]
+tags: [Notizbuch, lernen, schreiben]
 author:
   - Gernot Spelsberg
 ---
