@@ -66,5 +66,5 @@ Nach dem [Berufsbildungsgesetz](https://www.gesetze-im-internet.de/bbig_2005/__1
 
 Ihr Ausbildungsbetrieb kann von Ihnen auch darüber hinaus Nachweise anfordern, zum Beispiel Fachberichte über Arbeitsweisen oder die Organisationsstruktur des Betriebes. Welchen Weg nimmt ein Kundenauftrag im Betrieb, welche Abteilungen sind beteiligt?
 
-Übrigens müssen Sie auch die Inhalte und Themen des Berufsschulunterrichts in Ihren Berichten festhalten, ebenso wie firmeninterne oder überbetriebliche Schulungen.
+Übrigens müssen Sie auch die Inhalte und Themen des Berufsschulunterrichts in Ihren Berichten festhalten, ebenso firmeninterne oder überbetriebliche Schulungen.
 
