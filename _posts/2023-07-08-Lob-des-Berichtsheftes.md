@@ -10,9 +10,9 @@ tags: [Berichtsheft, Lernen, Schreiben]
 
 # Ein Lob dem Berichtsheft
 
-> **Viele müssen während ihrer Ausbildung ein Berichtsheft führen, ob analog oder digital, täglich, wöchentlich oder monatlich.**
-> **Dies wird von vielen als lästig empfunden, doch es ergeben sich Möglichkeiten und Vorteile.**
-> **Welche, das erfahren Sie hier.**
+>**Viele müssen während ihrer Ausbildung ein Berichtsheft führen, ob analog oder digital, täglich, wöchentlich oder monatlich.**
+>**Dies wird von vielen als lästig empfunden, doch es ergeben sich Möglichkeiten und Vorteile.**
+>**Welche, das erfahren Sie hier.**
 
 Jeder kennt Berichtshefte, früher oft als gebundenes Heft oder als Loseblattsammlung, heute immer häufiger als Datei auf einem Computer, Smartphone oder Tablett. Für viele, die so ein Heft führen müssen, ist der einzige Vorteil, dass die Hefte oder Blätter vom ausbildenden Betrieb gestellt werden müssen und das Schreiben der Berichte als Arbeitszeit zählt.
 
@@ -55,7 +55,6 @@ Als Software bietet sich Microsoft Office an, aber auch die kostenlosen Programm
 
 
 ## Sie haben einen Nachweis.
-
 Mit Ihrem Berichtsheft dokumentieren Sie die Ausbildung. Sie können damit belegen, was, und noch wichtiger, was Sie nicht gelernt haben. Ihre Berichte könnten sich im Streitfall als ein wichtiges Dokument erweisen.
 
 
@@ -67,4 +66,5 @@ Nach dem [Berufsbildungsgesetz](https://www.gesetze-im-internet.de/bbig_2005/__1
 Ihr Ausbildungsbetrieb kann von Ihnen auch darüber hinaus Nachweise anfordern, zum Beispiel Fachberichte über Arbeitsweisen oder die Organisationsstruktur des Betriebes. Welchen Weg nimmt ein Kundenauftrag im Betrieb, welche Abteilungen sind beteiligt?
 
 Übrigens müssen Sie auch die Inhalte und Themen des Berufsschulunterrichts in Ihren Berichten festhalten, ebenso wie firmeninterne oder überbetriebliche Schulungen.
+
 
