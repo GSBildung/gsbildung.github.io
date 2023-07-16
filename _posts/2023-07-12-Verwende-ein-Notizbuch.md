@@ -8,12 +8,12 @@ author:
   - Gernot Spelsberg
 ---
 
-![undraw_Blog_post_re_fy5x](https://github.com/GSBildung/gsbildung.github.io/blob/master/undraw_Notebook_re_id0r_k.png?raw=true)
 
 # Verwende ein Notizbuch
 
 > **Besonders während einer Ausbildung werden Sie ständig mit neuen und zum Teil wichtigen Informationen konfrontiert. Namen und Aufgabenbereiche neuer Kolleginnen und Kollegen, neue Arbeitsweisen, verschiedene Fachausdrücke. Sie werden sich nicht sofort alles merken können, daher sollten Sie ein Notizbuch verwenden.**
 
+![undraw_Blog_post_re_fy5x](https://github.com/GSBildung/gsbildung.github.io/blob/master/undraw_Notebook_re_id0r_k.png?raw=true)
 
 
 ## Papier und Stift funktionieren fast immer
