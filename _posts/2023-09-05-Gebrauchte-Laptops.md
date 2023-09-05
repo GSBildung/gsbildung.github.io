@@ -1,3 +1,14 @@
+---
+layout: post
+toc: true
+title: "Gebrauchte Laptops für die Ausbildung"
+categories: Ausbildung
+tags: [Laptop, kaufen, sparen]
+author:
+  - Gernot Spelsberg
+---
+
+
 # Gebrauchte Laptops für die Ausbildung
 **Es sollen Ihnen Möglichkeiten gezeigt werden, mit gebrauchter Hardware Geld zu sparen und trotzdem ein sinnvoll einsetzbares Gerät zu erhalten.  Alle Hinweise erfolgen aus eigener Erfahrung und sind daher subjektiv, es besteht keine geschäftliche Beziehung zu aufgeführten Marken oder Händlern. Es wird von dem Betriebssystem Windows ausgegangen.**
 **Da Apple-Produkte auch gebraucht noch sehr teuer sind, werden diese nicht besprochen.**
