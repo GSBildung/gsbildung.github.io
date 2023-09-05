@@ -34,7 +34,7 @@ Auch die Prozessor-Generation ist wichtig. Man erkennt sie an der ersten Zahl na
 An Arbeitsspeicher sollten 8 Gigabyte (GB) nicht unterschritten werden, mehr ist natürlich besser. Bei vielen Geräten ist der Arbeitsspeicher (RAM) verlötet und kann oft nicht einfach erweitert werden. Achten Sie darauf, ob Ihnen der Anbieter die Möglichkeit gibt, einen Rechner mit mehr RAM aufzurüsten.
 
 Ähnliches gilt für die Festplatte, heute meist eine SSD. Auch hier besteht oft die Möglichkeit der Aufrüstung. 256 GB sollten die untere Grenze sein.
-Denken Sie daran, dass ein Windows~11 alleine etwa 64 GB benötigt.
+Denken Sie daran, dass ein Windows 11 alleine etwa 64 GB benötigt.
 
 ### Windows 11
 
