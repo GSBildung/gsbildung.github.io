@@ -13,6 +13,8 @@ author:
 **Es sollen Ihnen Möglichkeiten gezeigt werden, mit gebrauchter Hardware Geld zu sparen und trotzdem ein sinnvoll einsetzbares Gerät zu erhalten.  Alle Hinweise erfolgen aus eigener Erfahrung und sind daher subjektiv, es besteht keine geschäftliche Beziehung zu aufgeführten Marken oder Händlern. Es wird von dem Betriebssystem Windows ausgegangen.**
 **Da Apple-Produkte auch gebraucht noch sehr teuer sind, werden diese nicht besprochen.**
 
+![Laptop](https://github.com/GSBildung/gsbildung.github.io/blob/master/undraw_Shared_workspace_re_3gsu_k.png?raw=true)
+
 ## Woher stammen gebrauchte Laptops
 
 Gebrauchte Laptops stammen meist aus Leasingrückläufern der Firmen. Daher überwiegen Rechner, die den Anforderungen der Arbeitswelt entsprechen. Entsprechend robust sind diese Geräte gebaut, wesentlich besser als Ware, die sich an den privaten Nutzer richtet.
