@@ -18,9 +18,9 @@ author:
 Gebrauchte Laptops stammen meist aus Leasingrückläufern der Firmen. Daher überwiegen Rechner, die den Anforderungen der Arbeitswelt entsprechen. Entsprechend robust sind diese Geräte gebaut, wesentlich besser als Ware, die sich an den privaten Nutzer richtet.
 Das am häufigsten eingesetzte Betriebssystem ist Windows. Die Notebooks oder PCs sind in der Regel drei bis fünf Jahre alt. Der Laptop kann ständig nur im Büro verwendet worden sein oder er wurde im Schrank gelagert. Vielleicht  wurde er im Außendienst strapaziert.
 
-Sie werden bei seriösen Anbietern überprüft, gereinigt und Windows wird neu installiert. Seriöse Anbieter beschreiben den Zustand der Hardware genau und weisen auf Mängel hin. Jeder Anbieter hat seine eigene Bewertung des Zustandes, Sie finden Begriffe wie Zustand A, geringe optische Mängel usw. Lesen Sie bitte die Einstufungen der Anbieter genau durch. Natürlich haben Sie bei gewerblichen Händlern ein Recht auf Rückgabe, wenn Ihnen der Artikel nicht gefällt.
+Sie werden bei seriösen Anbietern überprüft, gereinigt und Windows wird neu installiert. Seriöse Anbieter beschreiben den Zustand der Hardware genau und weisen auf Mängel hin. Jeder Anbieter hat seine eigene Bewertung des Zustandes, Sie finden Begriffe wie *Zustand A* oder *geringe optische Mängel* usw. Lesen Sie bitte die Einstufungen der Anbieter genau durch. Natürlich haben Sie bei gewerblichen Händlern ein Recht auf Rückgabe, wenn Ihnen der Artikel nicht gefällt.
 
-Die Mängel können Kratzer im Gehäuse oder Flecken im Display bis zu Brüchen in Scharnieren oder Gehäuse sein. Ein Zustand  Gebrauchtgerät 1. Wahl  kann optisch als Neugerät durchgehen.
+Die Mängel können Kratzer im Gehäuse oder Flecken im Display bis zu Brüchen in Scharnieren oder Gehäuse sein. Ein Zustand  *Gebrauchtgerät 1. Wahl*  kann optisch als Neugerät durchgehen.
 
 ## Welche Ausstattung wählen
 
