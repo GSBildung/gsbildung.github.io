@@ -76,7 +76,7 @@ Der Akku eines gebrauchten Notebooks ist eine Schwachstelle, daher ist dieser vo
 
 ### Anbieter
 
-Es gibt Anbieter, die sich auf aufbereitete Laptops und PC spezialisiert haben. Suchen Sie im Netz nach refurbished Notebooks. Außerdem bieten bekannte Händler oft Ausstellungsstücke oder Versandrückläufer günstiger an.
+Es gibt Anbieter, die sich auf aufbereitete Laptops und PC spezialisiert haben. Suchen Sie im Netz nach *refurbished Notebooks*. Außerdem bieten bekannte Händler oft Ausstellungsstücke oder Versandrückläufer günstiger an.
 Gute Marken für aufbereitete Computer sind Lenovo, HP, DELL, Fujitsu, Microsoft und Asus.
 
 Bekannte Anbieter von aufbereiteter Hardware sind:
