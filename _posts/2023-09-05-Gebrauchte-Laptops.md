@@ -88,6 +88,6 @@ Bekannte Anbieter von aufbereiteter Hardware sind:
 
 ### Testberichte
 
-Empfehlenswerte Testberichte zu einer großen Anzahl von Geräten finden Sie unter https://www.notebookcheck.com.
+Empfehlenswerte Testberichte zu einer großen Anzahl von Geräten finden Sie unter [Notebookcheck](https://www.notebookcheck.com).
 Bitte beachten Sie, dass die getesteten Computer in der Ausstattung (Display, Prozessor, SSD usw.)von den angebotenen Rechnern abweichen werden.
 
