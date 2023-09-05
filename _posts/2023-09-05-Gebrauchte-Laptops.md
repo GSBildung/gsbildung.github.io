@@ -80,7 +80,7 @@ Es gibt Anbieter, die sich auf aufbereitete Laptops und PC spezialisiert haben. 
 Gute Marken für aufbereitete Computer sind Lenovo, HP, DELL, Fujitsu, Microsoft und Asus.
 
 Bekannte Anbieter von aufbereiteter Hardware sind:
-- [Afb-Shop)](https://www.afbshop.de/)
+- [Afb-Shop](https://www.afbshop.de/)
 - [ITSCO](https://www.itsco.de/)
 - [Luxnote](https://www.luxnote-hannover.de/)  
 - [Lapstore](https://www.lapstore.de/)   
