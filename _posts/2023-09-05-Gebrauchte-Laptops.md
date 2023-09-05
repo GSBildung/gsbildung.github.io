@@ -83,7 +83,7 @@ Bekannte Anbieter von aufbereiteter Hardware sind:
 - [Afb-Shop)](https://www.afbshop.de/)
 - [ITSCO](https://www.itsco.de/)
 - [Luxnote](https://www.luxnote-hannover.de/)  
--[Lapstore](https://www.lapstore.de/)   
+- [Lapstore](https://www.lapstore.de/)   
 - [Harlander](https://www.harlander.com)
 
 ### Testberichte
